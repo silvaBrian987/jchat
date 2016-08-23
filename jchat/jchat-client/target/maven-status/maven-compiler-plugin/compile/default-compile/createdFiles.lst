@@ -1,0 +1,3 @@
+org\jchat\client\Client.class
+org\jchat\client\Client$ListenFromServer.class
+org\jchat\client\ClientGUI.class
